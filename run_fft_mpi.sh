@@ -1,0 +1,1 @@
+mpif90 -I/usr/local/include mpi_fft.f03 -lfftw3_mpi -lfftw3 -lm -o fftmpi

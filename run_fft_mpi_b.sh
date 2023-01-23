@@ -1,0 +1,1 @@
+mpif90 mpi_fft.f90 -I /opt/homebrew/include -L /opt/homebrew/lib -lfftw3 -lfftw3_mpi
